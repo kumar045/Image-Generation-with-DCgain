@@ -1,1 +1,1 @@
-# Image-Generation-with-DCgain
+# Image-Generation-with-DCgan
